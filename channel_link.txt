@@ -1,0 +1,1 @@
+https://api.telegram.org/bot7590580923:AAEiaCkGXLhLdvyMvFBJc_wePJLR_9ZtkV4/setWebhook?url=https://xlwk3jdcrwekhze3zyd6fxb2ei0xvdmc.lambda-url.eu-north-1.on.aws/

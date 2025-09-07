@@ -12,7 +12,7 @@ import aiofiles
 
 # Bot Configuration
 BOT_TOKEN = os.getenv(
-    "BOT_TOKEN") or "7590580923:AAEiaCkGXLhLdvyMvFBJc_wePJLR_9ZtkV4"
+    "BOT_TOKEN") or "BOT_TOKEN"
 ADMIN_IDS = [
     int(id.strip()) for id in os.getenv("ADMIN_IDS", "7489624146").split(",")
     if id.strip()
